@@ -1,0 +1,24 @@
+.span-color1{
+    color: #696969;
+}
+
+.profile-img {
+    border-radius: 30%;
+    height: 180px;
+  }
+
+  .first{
+    font-size: 30px;
+  }
+
+  .span-color2{
+    color: #ff1493;
+  }
+
+  .change-background-color{
+    background-color: #696969;
+  }
+
+  .copyright {
+    color: #ffffff !important;
+  }
