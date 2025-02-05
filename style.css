@@ -1,3 +1,22 @@
+header .nav-link{
+  color: #ffffff;
+}
+
+header .nav-link:hover{
+  color: black !important;
+}
+
+.header-container{
+  background-color: #696969;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+  background-color: #d3d3d3 !important;
+}
+
 .span-color1{
     color: #696969;
 }
@@ -11,8 +30,16 @@
     font-size: 30px;
   }
 
+  .third{
+    color: darkolivegreen;
+  }
+
   .span-color2{
     color: #ff1493;
+  }
+
+  .nav-link:hover{
+    color: #ffffff !important;
   }
 
   .change-background-color{
